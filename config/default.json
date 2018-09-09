@@ -1,0 +1,6 @@
+{
+    "name": "Default - config",
+    "mail" : {
+        "host" : "def-mail-server"
+    }
+}

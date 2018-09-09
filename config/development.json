@@ -1,0 +1,6 @@
+{
+    "name": "Developemnt - config",
+    "mail": {
+        "host": "dev-mail-server"
+    }
+}
